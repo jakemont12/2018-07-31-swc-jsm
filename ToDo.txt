@@ -1,4 +1,6 @@
 conversion functions needed:
 
---dollars to cents
+-- dollars to cents
 -- gallons to liters
+-- feet to inches
+-- something else
